@@ -1,8 +1,4 @@
-Group Policies:
-1: Applying Scripts using Group Policy
-2: Applying Folder Redirection
-3: Applying Auditing Policy
-4: Configuring Preferences using Item-level targeting 
+
 
 Folder Redirection:
 • Redirection of folders on the local computer or on a Shared

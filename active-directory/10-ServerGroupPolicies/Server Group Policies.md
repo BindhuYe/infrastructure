@@ -1,8 +1,3 @@
-1: Applying Group Policy on OU Level
-2: Applying Group Policy on Domain Level
-3: Applying Group Policy on Site Level
-4: Applying Group Policy Modeling
-5: Applying Software Deployment Policy
 
 Group Policy:
 • Group policy is a collection of settings which can be applied
