@@ -52,3 +52,5 @@ Maintains a list of system calls available for user programs to request services
 User Mode (Non-Privileged) – Regular applications.
 
 Kernel Mode (Privileged) – Full access to system hardware.
+
+![image](https://github.com/user-attachments/assets/5362eec9-1ee2-4549-96a5-979be871c92b)
