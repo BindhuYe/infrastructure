@@ -114,4 +114,12 @@ Migration has been done. Now Associate the Public IP and access the VM.
 virtual machine has been successfully migrated and it is ready for use.
 
 Post-migration best practices
-⦁ For increased resilience: ⦁ Keep data secure by backing up Azure VMs using the Azure Backup service. ⦁ Keep workloads running and continuously available by replicating Azure VMs to a secondary region with Site Recovery. ⦁ For increased performance: ⦁ By default, data disks are created with host caching set to “None”. Review and adjust data disk caching to your workload needs. ⦁ For increased security: ⦁ Lock down and limit inbound traffic access with, Microsoft Defender for Cloud — Just in time administration. ⦁ Restrict network traffic to management endpoints with, Network Security Groups. ⦁ Deploy, Azure Disk Encryption to help secure disks and keep data safe from theft and unauthorized access. Below are the errors we came across in the migration process.
+⦁ For increased resilience: 
+⦁ Keep data secure by backing up Azure VMs using the Azure Backup service. 
+⦁ Keep workloads running and continuously available by replicating Azure VMs to a secondary region with Site Recovery. 
+⦁ For increased performance: 
+⦁ By default, data disks are created with host caching set to “None”. Review and adjust data disk caching to your workload needs. 
+⦁ For increased security: 
+⦁ Lock down and limit inbound traffic access with, Microsoft Defender for Cloud — Just in time administration. 
+⦁ Restrict network traffic to management endpoints with, Network Security Groups. 
+⦁ Deploy, Azure Disk Encryption to help secure disks and keep data safe from theft and unauthorized access.
